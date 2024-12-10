@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Grifindo_Lanka_Toys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|D:\\Grifindo_Lanka_Toys\\grifindo_lanka_toys\\employee details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|solutionrelative:grifindo_lanka_toys\\employee details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|D:\\Grifindo_Lanka_Toys\\grifindo_lanka_toys\\emp_dash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|solutionrelative:grifindo_lanka_toys\\emp_dash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|D:\\Grifindo_Lanka_Toys\\grifindo_lanka_toys\\emp_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|solutionrelative:grifindo_lanka_toys\\emp_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|D:\\Grifindo_Lanka_Toys\\grifindo_lanka_toys\\emp_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|solutionrelative:grifindo_lanka_toys\\emp_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|D:\\Grifindo_Lanka_Toys\\grifindo_lanka_toys\\emp_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|solutionrelative:grifindo_lanka_toys\\emp_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|D:\\Grifindo_Lanka_Toys\\grifindo_lanka_toys\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|solutionrelative:grifindo_lanka_toys\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|D:\\Grifindo_Lanka_Toys\\grifindo_lanka_toys\\view_leave_history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|solutionrelative:grifindo_lanka_toys\\view_leave_history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|D:\\Grifindo_Lanka_Toys\\grifindo_lanka_toys\\view_leave_status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|solutionrelative:grifindo_lanka_toys\\view_leave_status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|d:\\grifindo_lanka_toys\\grifindo_lanka_toys\\view_leave_status.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|solutionrelative:grifindo_lanka_toys\\view_leave_status.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|D:\\Grifindo_Lanka_Toys\\grifindo_lanka_toys\\view_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|solutionrelative:grifindo_lanka_toys\\view_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|d:\\grifindo_lanka_toys\\grifindo_lanka_toys\\view_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|solutionrelative:grifindo_lanka_toys\\view_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|D:\\Grifindo_Lanka_Toys\\grifindo_lanka_toys\\view_leave_status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|solutionrelative:grifindo_lanka_toys\\view_leave_status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|D:\\Grifindo_Lanka_Toys\\grifindo_lanka_toys\\view_leave_history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|solutionrelative:grifindo_lanka_toys\\view_leave_history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|d:\\grifindo_lanka_toys\\grifindo_lanka_toys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|solutionrelative:grifindo_lanka_toys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|D:\\Grifindo_Lanka_Toys\\grifindo_lanka_toys\\emp_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|solutionrelative:grifindo_lanka_toys\\emp_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|D:\\Grifindo_Lanka_Toys\\grifindo_lanka_toys\\employee details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|solutionrelative:grifindo_lanka_toys\\employee details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|D:\\Grifindo_Lanka_Toys\\grifindo_lanka_toys\\admin_dash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|solutionrelative:grifindo_lanka_toys\\admin_dash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|D:\\Grifindo_Lanka_Toys\\grifindo_lanka_toys\\admin_dash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|solutionrelative:grifindo_lanka_toys\\admin_dash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|D:\\Grifindo_Lanka_Toys\\grifindo_lanka_toys\\admin_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|solutionrelative:grifindo_lanka_toys\\admin_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|D:\\Grifindo_Lanka_Toys\\grifindo_lanka_toys\\admin_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|solutionrelative:grifindo_lanka_toys\\admin_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|D:\\Grifindo_Lanka_Toys\\grifindo_lanka_toys\\apply_leave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|solutionrelative:grifindo_lanka_toys\\apply_leave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|D:\\Grifindo_Lanka_Toys\\grifindo_lanka_toys\\apply_leave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|solutionrelative:grifindo_lanka_toys\\apply_leave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|D:\\Grifindo_Lanka_Toys\\grifindo_lanka_toys\\approve_leave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|solutionrelative:grifindo_lanka_toys\\approve_leave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|D:\\Grifindo_Lanka_Toys\\grifindo_lanka_toys\\approve_leave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B8E9E77-081C-4572-B511-9C24504BB8B6}|Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj|solutionrelative:grifindo_lanka_toys\\approve_leave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Grifindo_Lanka_Toys||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee Details.cs [Design]",
+              "DocumentMoniker": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Employee Details.cs",
+              "RelativeDocumentMoniker": "Grifindo_Lanka_Toys\\Employee Details.cs",
+              "ToolTip": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Employee Details.cs [Design]",
+              "RelativeToolTip": "Grifindo_Lanka_Toys\\Employee Details.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:32:11.534Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Admin_Login.cs",
+              "DocumentMoniker": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Admin_Login.cs",
+              "RelativeDocumentMoniker": "Grifindo_Lanka_Toys\\Admin_Login.cs",
+              "ToolTip": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Admin_Login.cs",
+              "RelativeToolTip": "Grifindo_Lanka_Toys\\Admin_Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:28:18.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Emp_login.cs [Design]",
+              "DocumentMoniker": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Emp_login.cs",
+              "RelativeDocumentMoniker": "Grifindo_Lanka_Toys\\Emp_login.cs",
+              "ToolTip": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Emp_login.cs [Design]",
+              "RelativeToolTip": "Grifindo_Lanka_Toys\\Emp_login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:31:53.659Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Form1.cs",
+              "RelativeDocumentMoniker": "Grifindo_Lanka_Toys\\Form1.cs",
+              "ToolTip": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Form1.cs [Design]",
+              "RelativeToolTip": "Grifindo_Lanka_Toys\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:32:21.618Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Apply_Leave.cs",
+              "DocumentMoniker": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Apply_Leave.cs",
+              "RelativeDocumentMoniker": "Grifindo_Lanka_Toys\\Apply_Leave.cs",
+              "ToolTip": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Apply_Leave.cs",
+              "RelativeToolTip": "Grifindo_Lanka_Toys\\Apply_Leave.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAlwCgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:31:26.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "View_Report.cs [Design]",
+              "DocumentMoniker": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\View_Report.cs",
+              "RelativeDocumentMoniker": "Grifindo_Lanka_Toys\\View_Report.cs",
+              "ToolTip": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\View_Report.cs [Design]",
+              "RelativeToolTip": "Grifindo_Lanka_Toys\\View_Report.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:32:43.823Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "View_Leave_Status.Designer.cs",
+              "DocumentMoniker": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\View_Leave_Status.Designer.cs",
+              "RelativeDocumentMoniker": "Grifindo_Lanka_Toys\\View_Leave_Status.Designer.cs",
+              "ToolTip": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\View_Leave_Status.Designer.cs",
+              "RelativeToolTip": "Grifindo_Lanka_Toys\\View_Leave_Status.Designer.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAvwNsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:43:43.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Program.cs",
+              "RelativeDocumentMoniker": "Grifindo_Lanka_Toys\\Program.cs",
+              "ToolTip": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Program.cs",
+              "RelativeToolTip": "Grifindo_Lanka_Toys\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:38:03.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "View_Leave_Status.cs",
+              "DocumentMoniker": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\View_Leave_Status.cs",
+              "RelativeDocumentMoniker": "Grifindo_Lanka_Toys\\View_Leave_Status.cs",
+              "ToolTip": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\View_Leave_Status.cs",
+              "RelativeToolTip": "Grifindo_Lanka_Toys\\View_Leave_Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:32:36.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Employee Details.cs",
+              "DocumentMoniker": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Employee Details.cs",
+              "RelativeDocumentMoniker": "Grifindo_Lanka_Toys\\Employee Details.cs",
+              "ToolTip": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Employee Details.cs",
+              "RelativeToolTip": "Grifindo_Lanka_Toys\\Employee Details.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAIA7wDEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:32:13.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Emp_Reg.cs",
+              "DocumentMoniker": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Emp_Reg.cs",
+              "RelativeDocumentMoniker": "Grifindo_Lanka_Toys\\Emp_Reg.cs",
+              "ToolTip": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Emp_Reg.cs",
+              "RelativeToolTip": "Grifindo_Lanka_Toys\\Emp_Reg.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAASwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:32:03.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Emp_login.cs",
+              "DocumentMoniker": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Emp_login.cs",
+              "RelativeDocumentMoniker": "Grifindo_Lanka_Toys\\Emp_login.cs",
+              "ToolTip": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Emp_login.cs",
+              "RelativeToolTip": "Grifindo_Lanka_Toys\\Emp_login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:31:55.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Approve_Leave.cs",
+              "DocumentMoniker": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Approve_Leave.cs",
+              "RelativeDocumentMoniker": "Grifindo_Lanka_Toys\\Approve_Leave.cs",
+              "ToolTip": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Approve_Leave.cs",
+              "RelativeToolTip": "Grifindo_Lanka_Toys\\Approve_Leave.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:30:12.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Admin_Dash.cs [Design]",
+              "DocumentMoniker": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Admin_Dash.cs",
+              "RelativeDocumentMoniker": "Grifindo_Lanka_Toys\\Admin_Dash.cs",
+              "ToolTip": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Admin_Dash.cs [Design]",
+              "RelativeToolTip": "Grifindo_Lanka_Toys\\Admin_Dash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:46:04.934Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Admin_Dash.cs",
+              "DocumentMoniker": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Admin_Dash.cs",
+              "RelativeDocumentMoniker": "Grifindo_Lanka_Toys\\Admin_Dash.cs",
+              "ToolTip": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Admin_Dash.cs",
+              "RelativeToolTip": "Grifindo_Lanka_Toys\\Admin_Dash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:29:42.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Grifindo_Lanka_Toys",
+              "DocumentMoniker": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj",
+              "RelativeDocumentMoniker": "Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj",
+              "ToolTip": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj",
+              "RelativeToolTip": "Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-17T16:53:05.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Apply_Leave.cs [Design]",
+              "DocumentMoniker": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Apply_Leave.cs",
+              "RelativeDocumentMoniker": "Grifindo_Lanka_Toys\\Apply_Leave.cs",
+              "ToolTip": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Apply_Leave.cs [Design]",
+              "RelativeToolTip": "Grifindo_Lanka_Toys\\Apply_Leave.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:53:23.452Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Admin_Login.cs [Design]",
+              "DocumentMoniker": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Admin_Login.cs",
+              "RelativeDocumentMoniker": "Grifindo_Lanka_Toys\\Admin_Login.cs",
+              "ToolTip": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Admin_Login.cs [Design]",
+              "RelativeToolTip": "Grifindo_Lanka_Toys\\Admin_Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:47:19.947Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "View_leave_history.cs",
+              "DocumentMoniker": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\View_leave_history.cs",
+              "RelativeDocumentMoniker": "Grifindo_Lanka_Toys\\View_leave_history.cs",
+              "ToolTip": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\View_leave_history.cs",
+              "RelativeToolTip": "Grifindo_Lanka_Toys\\View_leave_history.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAIAwwA8AAACTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:32:25.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "View_Leave_Status.cs [Design]",
+              "DocumentMoniker": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\View_Leave_Status.cs",
+              "RelativeDocumentMoniker": "Grifindo_Lanka_Toys\\View_Leave_Status.cs",
+              "ToolTip": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\View_Leave_Status.cs [Design]",
+              "RelativeToolTip": "Grifindo_Lanka_Toys\\View_Leave_Status.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:52:58.582Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Emp_Dash.cs [Design]",
+              "DocumentMoniker": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Emp_Dash.cs",
+              "RelativeDocumentMoniker": "Grifindo_Lanka_Toys\\Emp_Dash.cs",
+              "ToolTip": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Emp_Dash.cs [Design]",
+              "RelativeToolTip": "Grifindo_Lanka_Toys\\Emp_Dash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:53:19.663Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Approve_Leave.cs [Design]",
+              "DocumentMoniker": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Approve_Leave.cs",
+              "RelativeDocumentMoniker": "Grifindo_Lanka_Toys\\Approve_Leave.cs",
+              "ToolTip": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Approve_Leave.cs [Design]",
+              "RelativeToolTip": "Grifindo_Lanka_Toys\\Approve_Leave.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:52:31.061Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "View_leave_history.cs [Design]",
+              "DocumentMoniker": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\View_leave_history.cs",
+              "RelativeDocumentMoniker": "Grifindo_Lanka_Toys\\View_leave_history.cs",
+              "ToolTip": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\View_leave_history.cs [Design]",
+              "RelativeToolTip": "Grifindo_Lanka_Toys\\View_leave_history.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:52:56.025Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "View_Report.cs",
+              "DocumentMoniker": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\View_Report.cs",
+              "RelativeDocumentMoniker": "Grifindo_Lanka_Toys\\View_Report.cs",
+              "ToolTip": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\View_Report.cs",
+              "RelativeToolTip": "Grifindo_Lanka_Toys\\View_Report.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAIAwwA8AAACTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:32:46.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Emp_Reg.cs [Design]",
+              "DocumentMoniker": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Emp_Reg.cs",
+              "RelativeDocumentMoniker": "Grifindo_Lanka_Toys\\Emp_Reg.cs",
+              "ToolTip": "D:\\Grifindo_Lanka_Toys\\Grifindo_Lanka_Toys\\Emp_Reg.cs [Design]",
+              "RelativeToolTip": "Grifindo_Lanka_Toys\\Emp_Reg.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:53:17.656Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
